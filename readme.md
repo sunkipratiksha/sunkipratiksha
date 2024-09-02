@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on: Enhancing my skills in Python and its data-driven modules.<br>I'm currently learning: Statistics and how to apply it using Python.<br>I'm looking to collaborate on: Projects related to data analysis, Python development, and statistical modeling.<br>I'm looking for help with: Advancing my understanding of data science concepts and real-world applications.<br>Ask me about: Python, data analysis, or anything related to learning data-driven tools.
+Hi, I'm Pratiksha.<br>I'm currently working on: Enhancing my skills in Python and its data-driven modules.<br>I'm currently learning: Statistics and how to apply it using Python.<br>I'm looking to collaborate on: Projects related to data analysis, Python development, and statistical modeling.<br>I'm looking for help with: Advancing my understanding of data science concepts and real-world applications.<br>Ask me about: Python, data analysis, or anything related to learning data-driven tools.
 
 
 ## 🌐 Socials:
