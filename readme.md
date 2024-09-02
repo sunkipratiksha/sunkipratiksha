@@ -15,4 +15,4 @@ Hi, I'm Pratiksha.<br>I'm currently working on: Enhancing my skills in Python an
 ---
 [![](https://visitcount.itsvg.in/api?id=sunkipratiksha&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> , i want to add this in read.me file, how should and where should i create? 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
