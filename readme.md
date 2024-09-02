@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Pratiksha!<br><br>🌱 On my data analytics journey, I'm enhancing my Python skills.<br>📊 Currently learning statistics and its application in Python.<br>🤝 Open to collaboration in data analysis and Python projects.<br>💬 Ask me about Python and data-driven tools.
 
 
