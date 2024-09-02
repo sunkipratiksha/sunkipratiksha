@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Pratiksha!<br><br>🌱 I'm currently working on enhancing my skills in Python and its data-driven modules.<br>📚 I'm learning statistics and how to apply it using Python.<br>🤝 I'm looking to collaborate on projects related to data analysis, Python development, and statistical modeling.<br>🔍 I'm seeking help to deepen my understanding of data science concepts and their real-world applications.<br>💬 Ask me about Python, data analysis, or anything related to learning data-driven tools.
+Hi, I'm Pratiksha!<br><br>🌱 On my data analytics journey, I'm enhancing my Python skills.<br>📊 Currently learning statistics and its application in Python.<br>🤝 Open to collaboration in data analysis and Python projects.<br>💬 Ask me about Python and data-driven tools.
 
 
 ## 🌐 Socials:
@@ -12,4 +12,3 @@ Hi, I'm Pratiksha!<br><br>🌱 I'm currently working on enhancing my skills in P
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sunkipratiksha&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunkipratiksha&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
